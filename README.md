@@ -1,4 +1,4 @@
-# CS3100: Paradigms of Programming (IITM Monsoon 2020)
+# CS3100: Paradigms of Programming (IITM Monsoon 2025)
 
 This is the Github repo for the course CS3100 Paradigms of Programming taught at
 IITM in the Monsoon semester 2025. The course website is here:
