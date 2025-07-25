@@ -8,7 +8,7 @@ layout: default
 
 </div>
 
-{% include image.html url="/cs3100_m20/_images/paradigms.png"
+{% include image.html url="/cs3100_m25/_images/paradigms.png"
    href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"
    caption="Don't worry. We will only cover a small subset of this." width=800 align="center" %}
 
@@ -22,11 +22,7 @@ description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here](https://github.com/kayceesrk/cs3100_m20#running-the-jupyter-notebooks).
-
-You can have a look at the [previous offering of the
-course](http://kcsrk.info/cs3100_f19/) for the list of topics we are likely to
-cover.
+is found [here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-notebooks).
 
 ## Essential Details
 
@@ -34,7 +30,7 @@ cover.
 * **Where:** Google Meet (link shared privately to the students)
 * **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F 13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
-* **Slack**: [http://cs3100m20iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
+* **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
 * **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=6280](https://courses.iitm.ac.in/course/view.php?id=6280)
 * **Video Lectures**: [YouTube](https://www.youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D)
 * **TAs:** 

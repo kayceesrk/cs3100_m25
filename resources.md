@@ -10,7 +10,7 @@ The course comes with a handy [docker
 image](https://hub.docker.com/r/kayceesrk/cs3100_iitm) which contains the
 necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks, primarily
 through which the course is taught. The instructions for running the Jupyter
-notebooks is [here](https://github.com/kayceesrk/cs3100_m20).
+notebooks is [here](https://github.com/kayceesrk/cs3100_m25).
 
 ## Docker
 
@@ -23,9 +23,9 @@ on all major platforms. The installation instructions for Docker is available
 If the Docker setup does not work for you for some reason, then an Ubuntu
 virtual box disk image (VDI) with the jupyter notebook is available
 [here](https://drive.google.com/drive/folders/1bak0M85dHd6Avvn1AANdFKBaYpomIuzT?usp=sharing).
-The password is `cs3100_m20`. The course git repo has been cloned under
-`cs3100_m20` in the home directory.  As you go through the course, you will have
-to do `git pull` in the `cs3100_m20` directory to get the latest updates from
+The password is `cs3100_m25`. The course git repo has been cloned under
+`cs3100_m25` in the home directory.  As you go through the course, you will have
+to do `git pull` in the `cs3100_m25` directory to get the latest updates from
 upstream.
 
 ## OCaml

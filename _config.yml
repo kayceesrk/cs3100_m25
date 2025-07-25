@@ -1,10 +1,10 @@
 # Site settings
-title: CS3100 Monsoon 2020
+title: CS3100 Monsoon 2025
 subtitle: Paradigms of Programming
-baseurl: "/cs3100_m20" # the subpath of your site, e.g. /blog/
+baseurl: "/cs3100_m25" # the subpath of your site, e.g. /blog/
 url: "http://kayceesrk.github.io" # the base hostname & protocol for your site
 syllabus: "http://www.cse.iitm.ac.in/course_details.php?arg=MTk="
-githubdir: "kayceesrk/cs3100_m20"
+githubdir: "kayceesrk/cs3100_m25"
 
 # Author/user information
 email: kcsrk@iitm.ac.in
@@ -13,7 +13,7 @@ github_username:  kayceesrk
 authorurl: "http://kcsrk.info"
 address: |
     Department of Computer Science and Engineering
-    BSB 371, Indian Institute of Technology, Madras
+    SSB 413, Indian Institute of Technology, Madras
     Chennai, India 600036
 
 # Build settings
