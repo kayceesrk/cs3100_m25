@@ -27,34 +27,29 @@ is found [here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-note
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** Google Meet (link shared privately to the students)
-* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F 13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
-* **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
+* **Where:** SSB 334
+* **When:** E Slot: Tue 1100 -- 1150, Wed 1000 -- 1050, Thu 0800 -- 0850, Fri 1700 -- 1750
 * **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
-* **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=6280](https://courses.iitm.ac.in/course/view.php?id=6280)
-* **Video Lectures**: [YouTube](https://www.youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D)
-* **TAs:** 
+* **Moodle**: TODO
+* **TAs:**
 
-| Name | Email | 
+| Name | Email |
 |------|-------|
-| Vimala S | cs19d013@smail.iitm.ac.in |
-| Sumit Padhiyar | sumitpad@cse.iitm.ac.in |
-| Girish Balakrishnan | cs19d012@smail.iitm.ac.in | 
-| Harsh Panchal | cs19m026@smail.iitm.ac.in | 
-| Kodi Kalyan Srinivas | cs19m032@smail.iitm.ac.in |
 
 <br>
-Liaise with the TAs over email about where to meet. 
+Liaise with the TAs over email about where to meet.
 
 ## Grading
 
 | Item          | Weightage (%) |
 |---------------|---------------|
-| 7 assignments | 49% |
-| EndSem        | 50% |
-| Class Participation | 1% |
+| Quiz 1 | 15% |
+| Quiz 2 | 15% |
+| Surprise Quizzes (best 5 out of 6) | 15% |
+| Programming Assignments | 20% |
+| EndSem | 35% |
 
-<br/> 
+<br/>
 
 ## Acknowledgements
 
