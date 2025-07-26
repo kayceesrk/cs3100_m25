@@ -7,11 +7,13 @@ ENV PATH="/home/opam/.local/bin:/home/opam/.local/share/uv/tools/jupyterlab/bin:
 
 RUN uv tool install jupyterlab
 RUN opam update
-RUN opam install jupyter
+RUN opam install jupyter merlin
 
 # Register the OCaml kernel with Jupyter
 RUN grep topfind ~/.ocamlinit || echo '#use "topfind";;' >> ~/.ocamlinit  # For using '#require' directive
 RUN grep Topfind.log ~/.ocamlinit || echo 'Topfind.log:=ignore;;' >> ~/.ocamlinit  # Suppress logging of topfind (recommended but not necessary)
+# Enable Merlin in OCaml REPL
+RUN grep merlin ~/.ocamlinit || echo '#require "merlin";;' >> ~/.ocamlinit
 RUN eval $(opam env) && ocaml-jupyter-opam-genspec
 # Register the OCaml kernel with Jupyter
 RUN eval $(opam env) && jupyter kernelspec install --name ocaml-jupyter "$(opam var share)/jupyter" --user
