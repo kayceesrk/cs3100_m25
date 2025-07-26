@@ -29,7 +29,7 @@ plus RISE extension for presentations. Then run
 ```bash
 git clone https://github.com/kayceesrk/cs3100_m25
 cd cs3100_m25/lectures
-docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:m25 jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:m25
 ```
 
 Copy and paste the displayed URL that starts with `http://127.0.0.1:8888` into
@@ -40,17 +40,17 @@ directory to get the latest updates from upstream.
 
 ## Tips
 
-For navigating the notebooks in presentation mode, only stick to 
+For navigating the notebooks in presentation mode, only stick to
 
 * `space` -- move forward
 * `shift+space` -- move backward
 * `cmd+enter` -- execute cell
 
-Anything else, such as the arrow keys, `shift+enter`, etc, will lead to [unintuitive behaviour](https://rise.readthedocs.io/en/latest/usage.html#navigation). 
+Anything else, such as the arrow keys, `shift+enter`, etc, will lead to [unintuitive behaviour](https://rise.readthedocs.io/en/latest/usage.html#navigation).
 
-Limited editor support is available for OCaml. 
+Limited editor support is available for OCaml.
 
 * `tab` -- code completion
 * `shift+tab` -- inspection
 
-See https://ocaml.org/p/jupyter/latest#code-completion. 
+See https://ocaml.org/p/jupyter/latest#code-completion.
