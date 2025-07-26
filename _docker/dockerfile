@@ -29,4 +29,37 @@ RUN uv pip install git+https://github.com/kayceesrk/jupyter-swi-prolog.git --pyt
 RUN mkdir -p ~/.local/share/jupyter/kernels/jswipl
 RUN curl -o ~/.local/share/jupyter/kernels/jswipl/kernel.json https://raw.githubusercontent.com/targodan/jupyter-swi-prolog/master/kernel.json
 
+# Configure RISE presentation settings
+RUN mkdir -p ~/.jupyter && \
+    echo 'c = get_config()' > ~/.jupyter/jupyter_notebook_config.py && \
+    echo 'c.Reveal.scroll = True' >> ~/.jupyter/jupyter_notebook_config.py && \
+    echo 'c.Reveal.theme = "simple"' >> ~/.jupyter/jupyter_notebook_config.py && \
+    echo 'c.Reveal.transition = "none"' >> ~/.jupyter/jupyter_notebook_config.py && \
+    echo 'c.Reveal.start_slideshow_at = "selected"' >> ~/.jupyter/jupyter_notebook_config.py
+
+# Create custom JavaScript to handle Shift+Enter behavior in RISE
+RUN mkdir -p ~/.jupyter/custom && \
+    echo 'define(["require"], function(require) {' > ~/.jupyter/custom/rise.js && \
+    echo '  return {' >> ~/.jupyter/custom/rise.js && \
+    echo '    load_ipython_extension: function() {' >> ~/.jupyter/custom/rise.js && \
+    echo '      require(["base/js/events"], function(events) {' >> ~/.jupyter/custom/rise.js && \
+    echo '        events.on("kernel_ready.Kernel", function() {' >> ~/.jupyter/custom/rise.js && \
+    echo '          if (window.Reveal) {' >> ~/.jupyter/custom/rise.js && \
+    echo '            IPython.keyboard_manager.command_shortcuts.remove_shortcut("shift-enter");' >> ~/.jupyter/custom/rise.js && \
+    echo '            IPython.keyboard_manager.edit_shortcuts.remove_shortcut("shift-enter");' >> ~/.jupyter/custom/rise.js && \
+    echo '            IPython.keyboard_manager.edit_shortcuts.add_shortcut("shift-enter", {' >> ~/.jupyter/custom/rise.js && \
+    echo '              help: "run cell, stay on slide",' >> ~/.jupyter/custom/rise.js && \
+    echo '              help_index: "zz",' >> ~/.jupyter/custom/rise.js && \
+    echo '              handler: function() {' >> ~/.jupyter/custom/rise.js && \
+    echo '                IPython.notebook.execute_cell();' >> ~/.jupyter/custom/rise.js && \
+    echo '                return false;' >> ~/.jupyter/custom/rise.js && \
+    echo '              }' >> ~/.jupyter/custom/rise.js && \
+    echo '            });' >> ~/.jupyter/custom/rise.js && \
+    echo '          }' >> ~/.jupyter/custom/rise.js && \
+    echo '        });' >> ~/.jupyter/custom/rise.js && \
+    echo '      });' >> ~/.jupyter/custom/rise.js && \
+    echo '    }' >> ~/.jupyter/custom/rise.js && \
+    echo '  };' >> ~/.jupyter/custom/rise.js && \
+    echo '});' >> ~/.jupyter/custom/rise.js
+
 WORKDIR /lectures

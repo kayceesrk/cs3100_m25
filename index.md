@@ -29,7 +29,7 @@ is found [here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-note
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
 * **Where:** SSB 334
 * **When:** E Slot: Tue 1100 -- 1150, Wed 1000 -- 1050, Thu 0800 -- 0850, Fri 1700 -- 1750
-* **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
+* **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m25iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
 * **Moodle**: TODO
 * **TAs:**
 
