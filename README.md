@@ -37,3 +37,20 @@ your browser to access JupyterLab. If you save the changes to the notebooks, the
 The environment includes presentation mode (RISE) - look for the presentation button in the toolbar.
 As you go through the course, you will have to do `git pull` in the `cs3100_m25`
 directory to get the latest updates from upstream.
+
+## Tips
+
+For navigating the notebooks in presentation mode, only stick to 
+
+* `space` -- move forward
+* `shift+space` -- move backward
+* `cmd+enter` -- execute cell
+
+Anything else, such as the arrow keys, `shift+enter`, etc, will lead to [unintuitive behaviour](https://rise.readthedocs.io/en/latest/usage.html#navigation). 
+
+Limited editor support is available for OCaml. 
+
+* `tab` -- code completion
+* `shift+tab` -- inspection
+
+See https://ocaml.org/p/jupyter/latest#code-completion. 
