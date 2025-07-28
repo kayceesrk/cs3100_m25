@@ -39,4 +39,4 @@ permalink: /schedule/
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
-[here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-notebooks).
+[here](https://github.com/kayceesrk/cs3100_m25).

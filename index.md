@@ -22,7 +22,7 @@ description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-notebooks).
+is found [here](https://github.com/kayceesrk/cs3100_m25).
 
 ## Essential Details
 
@@ -30,13 +30,13 @@ is found [here](https://github.com/kayceesrk/cs3100_m25#running-the-jupyter-note
 * **Where:** SSB 334
 * **When:** E Slot: Tue 1100 -- 1150, Wed 1000 -- 1050, Thu 0800 -- 0850, Fri 1700 -- 1750
 * **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m25iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
-* **Moodle**: TODO
+* **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=9781](https://courses.iitm.ac.in/course/view.php?id=9781)
 * **TAs:**
 
 | Name | Email |
 |------|-------|
 
-<br>
+<br/>
 Liaise with the TAs over email about where to meet.
 
 ## Grading
@@ -45,8 +45,8 @@ Liaise with the TAs over email about where to meet.
 |---------------|---------------|
 | Quiz 1 | 15% |
 | Quiz 2 | 15% |
-| Surprise Quizzes (best 5 out of 6) | 15% |
-| Programming Assignments | 20% |
+| Pop quiz (best 5 out of 6) | 20% |
+| Programming Assignments | 15% |
 | EndSem | 35% |
 
 <br/>

@@ -18,27 +18,17 @@ Docker is a free software and is supported
 on all major platforms. The installation instructions for Docker is available
 [here](https://docs.docker.com/install/#supported-platforms). 
 
-## CS3100 Virtual Box Disk Image
-
-If the Docker setup does not work for you for some reason, then an Ubuntu
-virtual box disk image (VDI) with the jupyter notebook is available
-[here](https://drive.google.com/drive/folders/1bak0M85dHd6Avvn1AANdFKBaYpomIuzT?usp=sharing).
-The password is `cs3100_m25`. The course git repo has been cloned under
-`cs3100_m25` in the home directory.  As you go through the course, you will have
-to do `git pull` in the `cs3100_m25` directory to get the latest updates from
-upstream.
-
 ## OCaml
 
-My recommendation is to use the Jupyter notebook for the class and not install
-OCaml on your host machine. If you still want to, I would recommend installing
-OCaml through the OPAM package manager. The installation instructions for OPAM
-is [here](https://opam.ocaml.org/doc/Install.html#Binary-distribution).
+You don't need a local installation of OCaml on your machine for the course. The
+docker image is enough. If you want to, check out
+[ocaml.org](https://ocaml.org/).
 
 ## SWI-Prolog
 
-SWI-Prolog installation instructions are
-[here](https://www.swi-prolog.org/Download.html).
+You don't need a local installation of SWI-Prolog on your machine for the
+course. The docker image is enough. If you want to, SWI-Prolog installation
+instructions are [here](https://www.swi-prolog.org/Download.html).
 
 # Learning
 
