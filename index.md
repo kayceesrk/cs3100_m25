@@ -27,14 +27,25 @@ is found [here](https://github.com/kayceesrk/cs3100_m25).
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** SSB 334
+* **Where:** SSB 134
 * **When:** E Slot: Tue 1100 -- 1150, Wed 1000 -- 1050, Thu 0800 -- 0850, Fri 1700 -- 1750
 * **Slack**: [http://cs3100m25iitm.slack.com/](http://cs3100m25iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
 * **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=9781](https://courses.iitm.ac.in/course/view.php?id=9781)
 * **TAs:**
 
-| Name | Email |
+| Name | Email (@smail.iitm.ac.in) |
 |------|-------|
+| Sai Venkata Krishnan V | cs20d408 |
+| Durwasa Chakraborty | cs24d011 | 
+| Sagar Biswas | cs24m039 | 
+| Vishal S | cs22b033 |
+| Md Isfarul Haque | cs22b010 |
+| Pranav | cs22b015 |
+| Vishakh Desai | cs25s018 |
+| Pradeep Peter Murmu | cs24m033 |
+| | |
+| | | 
+
 
 <br/>
 Liaise with the TAs over email about where to meet.
