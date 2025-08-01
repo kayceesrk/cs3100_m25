@@ -60,6 +60,8 @@ Liaise with the TAs over email about where to meet.
 | Programming Assignments | 15% |
 | EndSem | 35% |
 
+<br/>
+
 We will use absolute grading: S 90, A 80, B 70, C 60, D 50, E 35. 
 
 <br/>
