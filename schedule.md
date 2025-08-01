@@ -6,9 +6,9 @@ permalink: /schedule/
 
 | Lectures | Topic | Dates | Comments |
 |----------|-------|-------|----------|
-| 1 | Why PL? | | |
-| 2 | Why FP? | | |
-| 3 | Expressions | | |
+| 1 | Why PL? | 29/07 | |
+| 2 | Why FP? | 30/07 | |
+| 3 | Expressions | 30/07 | [WAT](https://www.destroyallsoftware.com/talks/wat) |
 | 4 | Functions | | |
 | 5 | Datatypes | | |
 | 6 | Pattern Matching | | |

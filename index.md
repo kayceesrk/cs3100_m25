@@ -56,9 +56,11 @@ Liaise with the TAs over email about where to meet.
 |---------------|---------------|
 | Quiz 1 | 15% |
 | Quiz 2 | 15% |
-| Pop quiz (best 5 out of 6) | 20% |
+| Pop quiz (best 4 out of 6) | 20% |
 | Programming Assignments | 15% |
 | EndSem | 35% |
+
+We will use absolute grading: S 90, A 80, B 70, C 60, D 50, E 35. 
 
 <br/>
 
