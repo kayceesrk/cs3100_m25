@@ -8,7 +8,7 @@ permalink: /schedule/
 |----------|-------|-------|----------|
 | 1 | Why PL? | 29/07 | |
 | 2 | Why FP? | 30/07 | |
-| 3 | Expressions | 30/07 | [WAT](https://www.destroyallsoftware.com/talks/wat) |
+| 3 | Expressions | 30/07, 01/08 | [WAT](https://www.destroyallsoftware.com/talks/wat) |
 | 4 | Functions | | |
 | 5 | Datatypes | | |
 | 6 | Pattern Matching | | |
