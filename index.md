@@ -37,14 +37,12 @@ is found [here](https://github.com/kayceesrk/cs3100_m25).
 |------|-------|
 | Sai Venkata Krishnan V | cs20d408 |
 | Durwasa Chakraborty | cs24d011 | 
+| Vishakh Desai | cs25s018 |
 | Sagar Biswas | cs24m039 | 
+| Pradeep Peter Murmu | cs24m033 |
 | Vishal S | cs22b033 |
 | Md Isfarul Haque | cs22b010 |
 | Pranav | cs22b015 |
-| Vishakh Desai | cs25s018 |
-| Pradeep Peter Murmu | cs24m033 |
-| | |
-| | | 
 
 
 <br/>
