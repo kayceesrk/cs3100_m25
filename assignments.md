@@ -9,7 +9,7 @@ moodle](https://courses.iitm.ac.in/course/view.php?id=9781).
 
 | Assignment   | Due Date |
 |:------------:|----------|
-| 0 | |
+| 0 | 13/08 |
 | 1 | |
 | 2 | |
 | 3 | |

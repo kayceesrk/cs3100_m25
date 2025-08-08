@@ -9,7 +9,7 @@ permalink: /schedule/
 | 1 | Why PL? | 29/07 | |
 | 2 | Why FP? | 30/07 | |
 | 3 | Expressions | 30/07, 01/08 06/08 | [WAT](https://www.destroyallsoftware.com/talks/wat), [CS3110 Expressions](https://cs3110.github.io/textbook/chapters/basics/expressions.html) |
-| 4 | Functions | 06/08, 07/08 | [CS3110 Functions](https://cs3110.github.io/textbook/chapters/basics/functions.html) |
+| 4 | Functions | 06/08, 07/08, 08/08 | [CS3110 Functions](https://cs3110.github.io/textbook/chapters/basics/functions.html) |
 | 5 | Datatypes | | |
 | 6 | Pattern Matching | | |
 | 7 | Higher-order programming | | |
@@ -40,3 +40,9 @@ permalink: /schedule/
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
 [here](https://github.com/kayceesrk/cs3100_m25).
+
+## Pop Quizzes
+
+| Quiz | Date  |
+|------|-------|
+| 1    | 08/08 |
