@@ -8,8 +8,8 @@ permalink: /schedule/
 |----------|-------|-------|----------|
 | 1 | Why PL? | 29/07 | |
 | 2 | Why FP? | 30/07 | |
-| 3 | Expressions | 30/07, 01/08 | [WAT](https://www.destroyallsoftware.com/talks/wat) |
-| 4 | Functions | | |
+| 3 | Expressions | 30/07, 01/08 06/08 | [WAT](https://www.destroyallsoftware.com/talks/wat), [CS3110 Expressions](https://cs3110.github.io/textbook/chapters/basics/expressions.html) |
+| 4 | Functions | 06/08, 07/08 | [CS3110 Functions](https://cs3110.github.io/textbook/chapters/basics/functions.html) |
 | 5 | Datatypes | | |
 | 6 | Pattern Matching | | |
 | 7 | Higher-order programming | | |

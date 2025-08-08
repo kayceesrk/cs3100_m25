@@ -40,9 +40,9 @@ is found [here](https://github.com/kayceesrk/cs3100_m25).
 | Vishakh Desai | cs25s018 |
 | Sagar Biswas | cs24m039 | 
 | Pradeep Peter Murmu | cs24m033 |
-| Vishal S | cs22b033 |
 | Md Isfarul Haque | cs22b010 |
 | Pranav | cs22b015 |
+| Kishore Kumar E | cs22b041 |
 
 
 <br/>
@@ -54,8 +54,8 @@ Liaise with the TAs over email about where to meet.
 |---------------|---------------|
 | Quiz 1 | 15% |
 | Quiz 2 | 15% |
-| Pop quiz (best 4 out of 6) | 20% |
-| Programming Assignments | 15% |
+| Pop quiz (best 4 out of 6) | 15% |
+| Programming Assignments | 20% |
 | EndSem | 35% |
 
 <br/>
