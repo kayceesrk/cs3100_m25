@@ -10,8 +10,8 @@ permalink: /schedule/
 | 2 | Why FP? | 30/07 | |
 | 3 | Expressions | 30/07, 01/08 06/08 | [WAT](https://www.destroyallsoftware.com/talks/wat), [CS3110 Expressions](https://cs3110.github.io/textbook/chapters/basics/expressions.html) |
 | 4 | Functions | 06/08, 07/08, 08/08, 12/08 | [CS3110 Functions](https://cs3110.github.io/textbook/chapters/basics/functions.html) |
-| 5 | Datatypes | 12/08 | |
-| 6 | Pattern Matching | | |
+| 5 | Datatypes | 12/08, 13/08, 14/08 | |
+| 6 | Pattern Matching | 14/08 | |
 | 7 | Higher-order programming | | |
 | 8 | Lambda Calculus: Syntax | | |
 | 9 | Lambda Calculus: Semantics | | |
@@ -37,7 +37,7 @@ permalink: /schedule/
 
 <br/>
 
-Total lecture hours till 12/08 = 7.
+Total lecture hours till 12/08 = 9.
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
