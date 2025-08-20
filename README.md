@@ -28,8 +28,8 @@ plus RISE extension for presentations. Then run
 
 ```bash
 git clone https://github.com/kayceesrk/cs3100_m25
-cd cs3100_m25/lectures
-docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:m25
+cd cs3100_m25
+docker run -it -p 8888:8888 -v "$(pwd)":/cs3100_m25 kayceesrk/cs3100_iitm:m25
 ```
 
 Copy and paste the displayed URL that starts with `http://127.0.0.1:8888` into
