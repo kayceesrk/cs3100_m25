@@ -11,7 +11,7 @@ moodle](https://courses.iitm.ac.in/course/view.php?id=9781).
 |:------------:|----------|
 | 0 | 13/08 |
 | 1 | 27/08 |
-| 2 | |
+| 2 | 14/09 |
 | 3 | |
 | 4 | |
 | 5 | | 
@@ -39,6 +39,16 @@ two days before the due date—last-minute extensions will not be granted except
 in exceptional circumstances. Extension requests should be made via Slack;
 copying all group members on the request. They should include a description of
 why an extension is being requested.
+
+## Response times
+
+Feel free to ask questions about assignments in the Slack channel. Please use
+`#townhall` channel if the question is not expected to be private to avoid
+having to answer the same questions repeatedly. We will aim to answer questions
+within 24 hours. We shall do our best to answer questions asap, but this is best
+effort. Even if these questions appear on the day of the deadline, responses may
+take up to 24 hours. Start early; avoid asking question and expecting answers in
+the last few hours of the deadline.
 
 ## Academic Integrity
 
