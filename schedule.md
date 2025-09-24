@@ -15,8 +15,8 @@ permalink: /schedule/
 | 7 | Higher-order programming | 20/08, 21/08 | [CS3110 Higher-order programming](https://cs3110.github.io/textbook/chapters/hop/intro.html#higher-order-programming) |
 | 8 | Lambda Calculus: Syntax | 21/08, 22/08, 26/08 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
 | 9 | Lambda Calculus: Semantics | 29/08, 02/09, 04/09 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
-| 10| Lambda Calculus: Encodings | 16/09 | TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 3 |
-| 11| Lambda Calculus: STLC | | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
+| 10| Lambda Calculus: Encodings | 16/09, 17/09, 18/09 | TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 3 |
+| 11| Lambda Calculus: STLC | 19/09, 23/09, 24/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 | 12| (Side) Effects | | |
 | 13| Modular Programming | | |
 | 14| Streams, Laziness and Memoization | | |
@@ -37,7 +37,7 @@ permalink: /schedule/
 
 <br/>
 
-Total lecture hours till (04/09) is (18).
+Total lecture hours till (24/09) is (23).
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
