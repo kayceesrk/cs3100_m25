@@ -16,28 +16,25 @@ permalink: /schedule/
 | 8 | Lambda Calculus: Syntax | 21/08, 22/08, 26/08 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
 | 9 | Lambda Calculus: Semantics | 29/08, 02/09, 04/09 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
 | 10| Lambda Calculus: Encodings | 16/09, 17/09, 18/09 | TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 3 |
-| 11| Lambda Calculus: STLC | 19/09, 23/09, 24/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
-| 12| (Side) Effects | | |
-| 13| Modular Programming | | |
-| 14| Streams, Laziness and Memoization | | |
-| 15| Monads | | |
-| 16| GADTs | | |
-| 17| Prolog Basics | | |
-| 18| Logical Foundations | | |
-| 19| Solving a Logic Puzzle | | |
-| 20| Programming with Lists | | |
-| 21| Control in Prolog | | |
-| 22| Mutable(?) data structures | | |
-| 23| Generate and Test | | |
-| 24| Cuts and Negation | | |
-| 25| Countdown, Type Inference and Program Synthesis | | |
-| 26| Graph Search | | |
-| 27| Database Programming| | |
-| 28| Sudoku & Constraint Logic Programming| | |
+| 11| Lambda Calculus: STLC | 19/09, 23/09, 24/09, 25/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
+| 12| (Side) Effects | 30/09, 01/10, 03/10 | [CS3110 Mutability](https://cs3110.github.io/textbook/chapters/mut/intro.html) |
+| 13| Modular Programming | 03/10 | [CS3110 Modular Programming](https://cs3110.github.io/textbook/chapters/modules/intro.html) |
+| 14| Prolog Basics | | |
+| 15| Logical Foundations | | |
+| 16| Solving a Logic Puzzle | | |
+| 17| Programming with Lists | | |
+| 18| Control in Prolog | | |
+| 19| Mutable(?) data structures | | |
+| 20| Generate and Test | | |
+| 21| Cuts and Negation | | |
+| 22| Countdown, Type Inference and Program Synthesis | | |
+| 23| Graph Search | | |
+| 24| Database Programming| | |
+| 25| Sudoku & Constraint Logic Programming| | |
 
 <br/>
 
-Total lecture hours till (24/09) is (23).
+Total lecture hours till (03/10) is (27).
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
@@ -49,3 +46,4 @@ using docker container whose instructions are
 |------|-------|
 | 1    | 08/08 |
 | 2    | 21/08 |
+| 3    | 19/09 |
