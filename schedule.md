@@ -19,11 +19,11 @@ permalink: /schedule/
 | 11| Lambda Calculus: STLC | 19/09, 23/09, 24/09, 25/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 | 12| (Side) Effects | 30/09, 01/10, 03/10 | [CS3110 Mutability](https://cs3110.github.io/textbook/chapters/mut/intro.html) |
 | 13| Modular Programming | 03/10, 07/10, 08/10, 10/10 | [CS3110 Modular Programming](https://cs3110.github.io/textbook/chapters/modules/intro.html) |
-| 14| Prolog Basics | 10/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
-| 15| Logical Foundations | | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
-| 16| Solving a Logic Puzzle | | |
-| 17| Programming with Lists | | |
-| 18| Control in Prolog | | |
+| 14| Prolog Basics | 10/10, 14/10(TA) | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+| 15| Logical Foundations | 14/10(TA), 15/10(TA) | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
+| 16| Solving a Logic Puzzle | 15/10(TA) | |
+| 17| Programming with Lists | 16/10(TA), 17/10(TA) | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 3 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+| 18| Control in Prolog | 17/10(TA) | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 19| Mutable(?) data structures | | |
 | 20| Generate and Test | | |
 | 21| Cuts and Negation | | |
@@ -34,7 +34,7 @@ permalink: /schedule/
 
 <br/>
 
-Total lecture hours till (10/10) is (30).
+Total lecture hours till (17/10) is (34).
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
