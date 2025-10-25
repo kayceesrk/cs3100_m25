@@ -23,9 +23,9 @@ permalink: /schedule/
 | 15| Logical Foundations | 14/10(TA), 15/10(TA) | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
 | 16| Solving a Logic Puzzle | 15/10(TA) | |
 | 17| Programming with Lists | 16/10(TA), 17/10(TA) | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 3 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 18| Control in Prolog | 17/10(TA), 21/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 19| Mutable(?) data structures | | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 20| Generate and Test | | |
+| 18| Control in Prolog | 17/10(TA), 21/10, 22/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+| 19| Mutable(?) data structures | 22/10, 23/10, 24/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+| 20| Generate and Test | 24/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 21| Cuts and Negation | | |
 | 22| Countdown, Type Inference and Program Synthesis | | |
 | 23| Graph Search | | |
@@ -34,7 +34,7 @@ permalink: /schedule/
 
 <br/>
 
-Total lecture hours till (17/10) is (35).
+Total lecture hours till (24/10) is (38).
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
@@ -44,9 +44,8 @@ using docker container whose instructions are
 
 | Quiz | Date  |
 |------|-------|
-| 0    | 08/08 |
-| 1    | 21/08 |
-| 2    | 19/09 |
-| 3    | 07/10 |
-| 4    | 11/11 |
-| 5    | 11/11 |
+| 1    | 08/08 |
+| 2    | 21/08 |
+| 3    | 19/09 |
+| 4    | 07/10 |
+
