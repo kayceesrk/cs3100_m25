@@ -27,14 +27,14 @@ permalink: /schedule/
 | 19| Mutable(?) data structures | 22/10, 23/10, 24/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 20| Generate and Test | 24/10, 28/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 21| Cuts and Negation | 28/10, 29/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 11 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 22| Countdown, Type Inference and Program Synthesis | | |
+| 22| Countdown, Type Inference and Program Synthesis | 30/10 | |
 | 23| Graph Search | | |
 | 24| Database Programming| | |
 | 25| Sudoku & Constraint Logic Programming| | |
 
 <br/>
 
-Total lecture hours till (28/10) is (40).
+Total lecture hours till (30/10) is (41).
 
 The lectures are available as interactive notebooks. They are best accessed
 using docker container whose instructions are
