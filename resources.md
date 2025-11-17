@@ -69,3 +69,4 @@ instructions are [here](https://www.swi-prolog.org/Download.html).
 * **The Art of Prolog, 2nd edition, Advanced Programming Techniques**, by Leon
   Sterling and Ehud Y. Shapiro. Available for free
   [here](https://mitpress.mit.edu/books/art-prolog-second-edition).
+* [P-99: Ninety-Nine Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
